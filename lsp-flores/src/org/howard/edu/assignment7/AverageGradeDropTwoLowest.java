@@ -41,7 +41,6 @@ public class AverageGradeDropTwoLowest implements Strategy {
 	}
 	
 	return avg;
-	
-	
 
+	}
 }
